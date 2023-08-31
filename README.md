@@ -25,9 +25,9 @@ In this EDA, I've focused on the following aspects:
 
 To reproduce this analysis, you will need:
 
-- Python (version X.X)
-- pandas library (version X.X)
-- matplotlib library (version X.X)
+- Python 
+- pandas library 
+- matplotlib library 
 
 You can install the required libraries using the following command:
 
